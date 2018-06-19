@@ -14,4 +14,6 @@ body {
   cursor: pointer;
   }
     
-#scarletsclass
+#scarletsclass {
+  color: purple;
+}
