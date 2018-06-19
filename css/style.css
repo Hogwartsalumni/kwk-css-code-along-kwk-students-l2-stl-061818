@@ -1,17 +1,17 @@
-    body {
-      background-color: lightblue;
-      font-size: 150%;
-    }
+body {
+  background-color: lightblue;
+  font-size: 150%;
+  }
   
-    .myClass {
-      background-color: gray;
-      color: blue
-    }
+.myClass {
+  background-color: gray;
+  color: blue
+  }
     
-    .dogclass {
-      background-color: blue;
-      font-family: verdana;
-      cursor: pointer;
-      
-    }
+.dogclass {
+  background-color: blue;
+  font-family: verdana;
+  cursor: pointer;
+  }
     
+#scarletsclass
